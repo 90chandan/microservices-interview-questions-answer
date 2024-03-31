@@ -54,7 +54,7 @@ Ans
 Ultimately, the choice between monolithic and microservices architecture depends on factors such as the size and complexity of the application, scalability requirements, development team structure, and organizational goals. Each architecture has its advantages and trade-offs, and the decision should be made based on the specific needs of the project.
 
 
-**2. How to ensure deployments are smooth, without affecting users much in case of issues ? What are different deployment techniques ?
+**2. How to ensure deployments are smooth, without affecting users much in case of issues ? What are different deployment techniques ?**
 
 Ans 
 
